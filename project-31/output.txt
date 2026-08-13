@@ -1,0 +1,9 @@
+SIMPLE CALCULATOR - OUTPUT
+
+===== SIMPLE CALCULATOR =====
+
+Enter first number: 10
+Enter operator (+, -, *, /): +
+Enter second number: 5
+
+Result = 15.0
